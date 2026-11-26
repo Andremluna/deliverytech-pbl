@@ -118,3 +118,5 @@ mvn spring-boot:run
 ```
 
 A página estará em `http://localhost:8080/` quando o processo estiver ativo. Essa execução local **não é exigida dos estudantes**.
+
+Atividade implementada pela dupla.
